@@ -41,3 +41,6 @@ Space: O(1)<br>
 Big O -<br>
 Time: O(1)<br>
 Space: O(1)<br>
+
+### Visual
+![stacks and queues](https://user-images.githubusercontent.com/39015829/47302908-7dcbe700-d5d7-11e8-9f9d-db5a1e87b993.jpg) </br>
