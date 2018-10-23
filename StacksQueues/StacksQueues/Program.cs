@@ -6,15 +6,16 @@ namespace StacksQueues
     public class Program
     {
         static void Main(string[] args)
-        {
+        {   //create new branch to push
             //using statement StacksQueues.Classes added for access to Node
             //Instantiating nodes
             Console.WriteLine("Stacks and Queues");
-            Node inputNode1 = new Node(1);
-            Node inputNode2 = new Node(2);
-            Node inputNode3 = new Node(3);
-            Node inputNode4 = new Node(4);
-            Node inputNode5 = new Node(5);
+            Console.WriteLine("insert branch into github");
+            Node inputNode1 = new Node(100);
+            Node inputNode2 = new Node(200);
+            Node inputNode3 = new Node(300);
+            Node inputNode4 = new Node(400);
+            Node inputNode5 = new Node(500);
             Queue theQueue = new Queue(inputNode1);
             theQueue.Enqueue(inputNode2);
             theQueue.Enqueue(inputNode3);
