@@ -6,7 +6,7 @@ namespace StacksQueues
     public class Program
     {
         static void Main(string[] args)
-        {
+        {   //create new branch to push
             //using statement StacksQueues.Classes added for access to Node
             //Instantiating nodes
             Console.WriteLine("Stacks and Queues");
